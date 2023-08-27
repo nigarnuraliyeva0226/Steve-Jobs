@@ -1,0 +1,59 @@
+@font-face {
+    font-family: Montserrat;
+    src: url(/fonts/static/Montserrat-Medium.ttf)
+}
+
+h1 {
+    font-weight: 900;
+}
+.biography{
+    width: 50%;
+    height: 100%;
+    border-color: #80ced6;
+    background-color:#f0fff8;
+    border-collapse: collapse;
+   
+}
+
+div.prgrph1 {
+    width: 50%;
+    height: 100%;
+    border: solid 2px #80ced6 ;
+    background-color:#f0fff8;
+    border-radius:15px;
+    text-align: justify right;
+}
+
+div.facts {
+    height: 100%;
+    width: 50%;
+    background-color:#f0fff8;
+    border-radius:15px;
+    border: solid 2px #80ced6 ;
+}
+
+div.personal {
+    width: 60%;
+    height: 50%;
+    height: 100%;
+    background-color:#f0fff8;
+    border-radius:15px;
+    border: solid 2px #80ced6 ;
+
+}
+
+div.early{
+    width: 43%;
+    height: 100%;
+    border: solid 2px #80ced6 ;
+    background-color:#f0fff8;
+    border-radius:15px;
+    text-align: justify right;
+}
+
+body {
+    font-family: Montserrat;
+}
+
+
+
